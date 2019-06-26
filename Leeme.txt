@@ -1,0 +1,20 @@
+Conozcamos Concon es una apliccion para leer codigos QR especificos que entregaran informacion sobre la ciudad de Concon, ademas de tener un mapa con rutas para visitar y, de igual manera, recibir informacion del lugar. Por el momento, la aplicacion esta dividida en 2, el lector QR y las rutas.
+
+---QR---
+
+1.- Instalar "lectorQRV0.1.0.apk" para tener el lector QR.
+
+2.- Dar a iniciar y seleccionar camara (el boton "Notificaciones no es funcional"
+
+3.- Escanear uno de los codigos QR que se entregan.
+
+
+---Rutas---
+
+1.- Instalar "geolocalizacionv0.7.apk" para tener mapa con rutas.
+
+2.- La aplicacion funciona con GPS, por lo que solo mostrara la ubicacion actual del celular. Si quiere probar algun modificador de GPS, puede hacerlo.
+
+3.- Dar a "Ruta 1" para ver 5 puntos a visitar, los cuales son "El Museo Historico y Arqueologico de Concon", "Parroquia Nuestra Senora de las Mercedes de Concon", "Plaza Patricio Lynch", "ENAP Refinerias Aconcagua", "Casona Patronal Hacienda Concon".
+
+4.- Al ubicarse en el sitio, toque el simbolo azul para ver la informacion del lugar.
