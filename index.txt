@@ -1,3 +1,11 @@
 06/07/2019
 
 Agregado proyecto unificado y APK.
+
+
+23/07/2019
+
+-Cambio en aspecto del proyecto.
+-Error de camara solucionado.
+-Error de rutas solucionado.
+-Agregado Notificaciones.
