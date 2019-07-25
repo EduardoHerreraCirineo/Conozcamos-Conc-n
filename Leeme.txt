@@ -2,19 +2,21 @@ Conozcamos Concon es una apliccion para leer codigos QR especificos que entregar
 
 ---Uso---
 
-1.- Instalar "Conozacamos_Concon_V0.4.0.apk" para tener el lector QR.
+1.- Instalar "Conozcamos_Concon_V0.6.0.apk".
+
+2.- Dar los permisos de la camara y ubicacion manualmente accediendo en ajustes>aplicaciones>Permisos>Camara/Ubicacion y activas la aplicacion.
 
 ---QR---
 
-2.- Dar a iniciar y seleccionar camara (el boton "Notificaciones no es funcional"
+3.- Dar a iniciar y seleccionar camara (el boton "Notificaciones no es funcional"
 
-3.- Escanear uno de los codigos QR que se entregan.
+4.- Escanear uno de los codigos QR que se entregan.
 
 
 ---Rutas---
 
-4.- La aplicacion funciona con GPS, por lo que solo mostrara la ubicacion actual del celular. Si quiere probar algun modificador de GPS, puede hacerlo.
+5.- La aplicacion funciona con GPS, por lo que solo mostrara la ubicacion actual del celular. Si quiere probar algun modificador de GPS, puede hacerlo.
 
-5.- Dar a "Ruta 1" para ver 5 puntos a visitar, los cuales son "El Museo Historico y Arqueologico de Concon", "Parroquia Nuestra Senora de las Mercedes de Concon", "Plaza Patricio Lynch", "ENAP Refinerias Aconcagua", "Casona Patronal Hacienda Concon".
+6.- Seleccionar una de las dos rutas habilitadas para ver 5 puntos a visitar.
 
-6.- Al ubicarse en el sitio, toque el simbolo azul para ver la informacion del lugar.
+7.- Al ubicarse en el sitio, toque el simbolo azul para ver la informacion del lugar.
