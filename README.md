@@ -23,7 +23,7 @@ Agregado proyecto unificado y APK.
 -Agregado Notificaciones.
 -Nueva Versión de APK.
 
-#24/07/2019
+# 24/07/2019
 
 -Agregado de puntos de ruta.
 -Nueva Versión de APK.
